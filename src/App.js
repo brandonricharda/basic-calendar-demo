@@ -134,6 +134,7 @@ class App extends Component {
 
                     <div class="flex column width-350 items-aligned-center">
                         <h2>Response:</h2>
+                        <p>Note: This application is connected to a free server. It may take a while to generate a response if the server has not been spun up in a while.</p>
                         <p>{this.state.apiResponse}</p>
                     </div>
 
