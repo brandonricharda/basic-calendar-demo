@@ -1,0 +1,75 @@
+@font-face {
+    font-family: cabin;
+    src: url("./Cabin-VariableFont_wdth,wght.ttf");
+}
+
+body {
+    margin: 0;
+    font-family: cabin;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.items-aligned-center {
+    align-items: center;
+}
+
+.width-350 {
+    width: 350px;
+}
+
+.height-20 {
+    height: 20px;
+}
+
+.height-30 {
+    height: 30px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mt-10 {
+    margin-bottom: 10px;
+}
+
+.primary-blue {
+    background-color: #2C4E69;
+}
+
+.borderless {
+    border: none;
+}
+
+.white-text {
+    color: white;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
