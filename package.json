@@ -1,5 +1,5 @@
 {
-    "homepage": "https://oncallhealth.github.io/oncall-api-demo-client/",
+    "homepage": "https://github.com/brandonricharda/basic-calendar-demo",
     "name": "oncall-client",
     "version": "0.1.0",
     "private": true,
@@ -22,20 +22,20 @@
     },
     "eslintConfig": {
         "extends": [
-        "react-app",
-        "react-app/jest"
+            "react-app",
+            "react-app/jest"
         ]
     },
     "browserslist": {
         "production": [
-        ">0.2%",
-        "not dead",
-        "not op_mini all"
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
         ],
         "development": [
-        "last 1 chrome version",
-        "last 1 firefox version",
-        "last 1 safari version"
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
         ]
     },
     "devDependencies": {
